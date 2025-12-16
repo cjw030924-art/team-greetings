@@ -1,3 +1,3 @@
 # team-greetings
-# 일본어 인사
-こんにちは (Konnichiwa)
+# 중국어 인사
+你好 (Ni hao)
